@@ -11,6 +11,7 @@ module.exports = {
       },
       fontFamily:{
         sofadi:["Sofadi One"],
+        heebo:["Heebo"],
      
       }
 
